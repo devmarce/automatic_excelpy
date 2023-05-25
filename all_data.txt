@@ -1,0 +1,37 @@
+https://pypi.org/
+
+librerias para excel: https://pypi.org/search/?q=excel
+
+Librerias para poder tratar datos: https://www.python-excel.org/
+
+Lib. Recomendad por el instrucctor: xlwings -> https://docs.xlwings.org/en/stable/
+
+https://www.xlwings.org/ (ver la version estable, la ultima es para la version pro que es pago)
+
+otras librerias: 
+
+Panadas (se complementa con xlwings) -> https://pandas.pydata.org/
+Documentacion: https://pandas.pydata.org/docs/
+
+https://numpy.org/
+
+https://openpyxl.readthedocs.io/en/stable/ (en la barra lateral tiene ducumentacion)
+
+https://pandas-datareader.readthedocs.io/en/latest/
+
+-----------------------
+
+editor vscode
+
+-----------------------
+
+openpyxl: permite realizar edicione en excel mediante python.
+----------------------------------
+
+Automatizar el nombrado de archivos:en una carpeta, se insertan archivos y se renombran automaticamente.
+
+
+--------------------------------------------
+
+
+
